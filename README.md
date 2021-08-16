@@ -3,5 +3,5 @@
 #### -- Architecture 
 
 <p align="center">
-  <img src="img/nasa .png" width="350">
+  <img src="img/nasa .png">
 </p>
