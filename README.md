@@ -2,4 +2,6 @@
 
 #### -- Architecture 
 
-![plot](./img/nasa.png)
+<p align="center">
+  <img src="img/nasa .png" width="350">
+</p>
