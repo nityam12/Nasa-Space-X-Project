@@ -1,1 +1,5 @@
-Nasa-Space-x Project
+# Nasa-Space-X Project
+
+-- Architecture 
+
+![plot](Nasa.png)
