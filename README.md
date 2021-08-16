@@ -1,5 +1,5 @@
 # Nasa-Space-X Project
 
--- Architecture 
+#### -- Architecture 
 
-![plot](Nasa.png)
+![plot](./img/nasa.png)
